@@ -1,5 +1,5 @@
 # 👋 Hi there!
-> This is the official GitHub account from ORAE.
+> *This is the official GitHub account from ORAE.*
 
 Find out more!
 > `🌍` https://example.com<br>
