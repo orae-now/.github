@@ -6,5 +6,3 @@ Here are some links!
 > `📨` [support@example.com](mailto:support@example.com)<br>
 > `💬` https://dsc.gg/orae<br>
 > `✨` https://x.com/oraenet<br>
->
-> Thanks :)
