@@ -2,6 +2,6 @@
 > This is the official GitHub account from ORAE.
 
 Find out more!
-> `🌍` https://example.com
-> `💬` https://dsc.gg/orae
-> `✨` https://x.com/oraenet
+> `🌍` https://example.com<br>
+> `💬` https://dsc.gg/orae<br>
+> `✨` https://x.com/oraenet<br>
